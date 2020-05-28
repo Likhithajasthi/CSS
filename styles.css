@@ -84,6 +84,22 @@ a:active {
 .secondary-content {
     width: 60%;
 }
+.wildlife{
+    color: white;
+    background-color: #48525c;
+    /*padding-top: 100px;
+    padding-right: 120px;
+    padding-bottom: 120px;
+    padding-left: 100px;*/
+    padding: 100px 120px 120px 100px;
+   /* border-width: 10px;
+    border-style: dashed;
+    border-color: #ffa949;*/
+   /* border-width: 10px 20px; 10px is for top and bottom and 20px is for right and left
+    border-style: solid dashed;
+    border-color: #48525c orange orangered darkgoldenrod;*/
+    border: 10px solid #ffa949;/* short hand notation of border 10px is width, solid border style and #ffa949 is color*/
+}
 
 
 
