@@ -18,12 +18,14 @@ h2 {
     font-size: 3.3125em; /* 53px/16px  */
     font-weight: normal;
     line-height: 1.1;
+    margin-bottom:0.5em;
 }
 
 h3 {
     font-size: 1.25em; /* 20px/16px  */
     color: #48525c;
     line-height: 1.2;
+    margin-bottom: 1.625em;
 }
 
 /* Pseudo-classes ------------------ */
@@ -83,6 +85,7 @@ a:active {
 .primary-content,
 .secondary-content {
     width: 60%;
+    margin: auto;
 }
 .wildlife{
     color: white;
@@ -99,6 +102,7 @@ a:active {
     border-style: solid dashed;
     border-color: #48525c orange orangered darkgoldenrod;*/
     border: 10px solid #ffa949;/* short hand notation of border 10px is width, solid border style and #ffa949 is color*/
+    margin: 105px 0 60px 0;
 }
 
 
