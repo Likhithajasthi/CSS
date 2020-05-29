@@ -107,6 +107,8 @@ a:active {
 .title {
     color: white;
     font-size: 1.625rem; /* 26px/16px */
+    border-bottom: 2px solid;
+    padding-bottom: 10px;
 }
 
 .intro {
