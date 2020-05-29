@@ -60,9 +60,16 @@ a:active {
 /* Main Styles --------------------- */
 
 .main-header {
-    background-color: #ffa949;
     padding-top: 170px;
     height: 850px;
+   /* background-color: #ffa949;
+    background-image: url("mountains.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background: #ffa949 url("mountains.jpg") no-repeat center / cover; short hand notation of background*/
+    background: #ffa949 url("mountains.jpg") no-repeat center;
+    background-size: cover;
 }
 
 .title {
